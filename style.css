@@ -217,8 +217,8 @@ em {
   inset: 0;
 
 background-image:
-    linear-gradient(rgba(0,0,0,.35), rgba(0,0,0,.35)),
-    url("church.jpg");
+   url("church.jpg")
+
 
   background-size: cover;
   background-position: center;
